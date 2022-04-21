@@ -84,3 +84,11 @@ th {
     border: 1px solid black;
     padding: 5px;
 }
+/*Adding Bonus Content*/
+.currentPage {
+    color: purple;
+}
+
+#closure {
+    width: 100%;
+}
